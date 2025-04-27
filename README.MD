@@ -4,10 +4,10 @@ This project contains automated tests for the SauceDemo website (https://www.sau
 
 ## Scope of Testing ##
 This project covers a wide scope of testing aspects of the web application:
-# Functionality
-# Usability
-# Performance
-# Security
+## Functionality ##
+## Usability ##
+## Performance ##
+## Security ##
 
 This testing was designed to be executed on a Mozilla Firefox browser, additionally it's also worth noting that the platform that has been used for the development of this automates testing strategies is on a Linux environment specifically (OpenSUSE Tumbleweed), but can still be executed on a multi platform as long as dependencies on the *requriements.txt* file are met.
 
