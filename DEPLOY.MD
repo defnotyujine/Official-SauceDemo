@@ -73,11 +73,7 @@ Follow these steps to deploy the **SauceDemo Automated Testing Project** on your
      ```bash
     
      # For running all the test cases
-     pytest_master.sh
-
-     # For running all the python files
-     python_master.sh
-     ```
+     master.sh
 
 ---
 
@@ -113,11 +109,7 @@ If you are using a **Windows** operating system, follow these additional steps f
    - Once all dependencies are installed, run the test scripts from **Command Prompt**:
      ```bash
      # For running all the test cases
-     pytest_master.bat
-
-     # For running all the Python files
-     python_master.bat
-     ```
+     master.bat
 
      Note that `.bat` files can be used to automate the process on Windows for running tests.
 
