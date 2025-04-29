@@ -46,7 +46,7 @@ Follow these steps to deploy the **SauceDemo Automated Testing Project** on your
 ### **2. Install Python Dependencies**
    - Navigate to the project directory:
      ```bash
-     cd Official-SauceDemo
+     cd ~/Official-SauceDemo
      ```
 
    - Install the necessary Python libraries by running:
