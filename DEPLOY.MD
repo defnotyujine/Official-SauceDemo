@@ -36,12 +36,12 @@ Before deploying the project locally, ensure that the following software is inst
 Follow these steps to deploy the **SauceDemo Automated Testing Project** on your local machine:
 
 ### **1. Clone the Repository**
-   - If you are using Git, clone the project repository to your local system:
+   - If you are using Git, clone the project repository to your local system's home directory:
      ```bash
      git clone https://github.com/defnotyujine/Official-SauceDemo.git
      ```
 
-   - Alternatively, download the project as a ZIP file from the repository and extract it.
+   - Alternatively, download the project as a ZIP file from the repository and extract it to your `home` folder.
 
 ### **2. Install Python Dependencies**
    - Navigate to the project directory:
