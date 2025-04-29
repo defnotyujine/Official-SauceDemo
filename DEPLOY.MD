@@ -73,7 +73,7 @@ Follow these steps to deploy the **SauceDemo Automated Testing Project** on your
      ```bash
     
      # For running all the test cases
-     master.sh
+     ./master.sh
 
 ---
 
